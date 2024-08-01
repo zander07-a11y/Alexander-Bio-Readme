@@ -20,24 +20,24 @@
          <P>THIS IS AN ORDERED LIST</P>
 
   
-<ul>
+<ol>
   <li>Item 1</li>
   <li>Item 2</li>
   <li>Item 3</li>
   <li>item 4</li>
   <li>item 5</li>
-</ul> 
+</ol> 
 
       
 <p>THIS IS UNORDERED LIST</p>
 
-<ol>
+<ul>
   <li>item 1</li>
   <li>item 2</li>
   <li>item 3</li>
   <li>item 4</li>
   <li>item 5</li>
-</ol>  
+</ul>  
 
      <h3>THIS TEXT IS BOLD</h3>
 
