@@ -4,6 +4,26 @@
 <title>Bootstrap</title>
 <link href="https://maxcdn.bootstrapcdn.com/bootstrap/4.5.2/css/bootstrap.min.css" rel="stylesheet">
 
+<style>
+  #row1 {
+      background-color: lightblue;
+  }
+  #row2 {
+      background-color: lightgreen;
+  }
+  #row3 {
+      background-color: lightcoral;
+  }
+  #col1 {
+      background-color: lightpink;
+  }
+  #col2 {
+      background-color: lightyellow;
+  }
+  #col3 {
+      background-color: lightgray;
+  }
+</style>
 
 <body>
     <div class="container">
@@ -16,10 +36,10 @@
         <div class="col" id="col4"></div>
       </div>
     </div>
-  </body>
 
 </body> 
-  <html
+
+  </html>
 
 
 
